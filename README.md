@@ -4,12 +4,12 @@ DESCRIPTION:
   This project is an Intelligent Document Retrieval System that allows users to upload a ZIP file containing multiple documents (PDF, DOCX, TXT, PPTX). It intelligently extracts and searches for user-provided keywords using Natural Language Processing (NLP), and displays matching documents with a download option.
 
 TECH USED:
-  -> Python – core programming language
-  -> Natural Language Processing (NLP) – for keyword-based semantic search
-  -> NLTK – for tokenization and keyword matching
-  -> Streamlit – for building the interactive web interface
-  -> python-docx, PyPDF2, python-pptx – to extract content from different file formats
-  -> zipfile – to extract ZIP archives
+  Python – core programming language,
+  Natural Language Processing (NLP) – for keyword-based semantic search,
+  NLTK – for tokenization and keyword matching,
+  Streamlit – for building the interactive web interface,
+  python-docx, PyPDF2, python-pptx – to extract content from different file formats & 
+  zipfile – to extract ZIP archives.
 
 HOW IT WORKS:
   i) User uploads a ZIP file containing various document formats.
